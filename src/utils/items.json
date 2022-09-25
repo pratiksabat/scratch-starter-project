@@ -1,0 +1,22 @@
+[
+	{
+		"id": 1,
+		"label": "Motion",
+		"color": "blue"
+	},
+	{
+		"id": 2,
+		"label": "Looks",
+		"color": "purple"
+	},
+	{
+		"id": 3,
+		"label": "Sound",
+		"color": "red"
+	},
+	{
+		"id": 4,
+		"label": "Event",
+		"color": "yellow"
+	}
+]

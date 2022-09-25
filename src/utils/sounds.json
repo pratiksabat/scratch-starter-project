@@ -1,0 +1,33 @@
+[
+	{
+		"id": 17,
+		"type": "sounds",
+		"containerStyle": "flex flex-row flex-wrap bg-red-500 text-white px-2 py-1 my-2 text-sm cursor-pointer h-9 w-52 rounded-md",
+		"textBefore": "play sound",
+		"dropdown": "Meow",
+		"dropdownOptions": ["Meow", "Record"],
+		"dropdownStyle": "w-1 h-6",
+		"textAfter": "until done"
+	},
+	{
+		"id": 18,
+		"type": "sounds",
+		"containerStyle": "flex flex-row flex-wrap bg-red-500 text-white px-2 py-1 my-2 text-sm cursor-pointer h-9 w-52 rounded-md",
+		"textBefore": "start sound",
+		"dropdown": "Meow",
+		"dropdownOptions": ["Meow", "Record"],
+		"dropdownStyle": "w-2 h-6"
+	},
+	{
+		"id": 19,
+		"type": "sounds",
+		"containerStyle": "flex flex-row flex-wrap bg-red-500 text-white px-2 py-1 my-2 text-sm cursor-pointer h-9 w-52 rounded-md",
+		"textBefore": "stop all sound"
+	},
+	{
+		"id": 20,
+		"type": "sounds",
+		"containerStyle": "flex flex-row flex-wrap bg-red-500 text-white px-2 py-1 my-2 text-sm cursor-pointer h-9 w-52 rounded-md",
+		"textBefore": "clear all sound"
+	}
+]

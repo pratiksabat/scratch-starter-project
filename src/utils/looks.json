@@ -1,0 +1,36 @@
+[
+	{
+		"id": 13,
+		"type": "looks",
+		"containerStyle": "flex flex-row flex-wrap bg-purple-500 text-white px-2 py-1 my-2 text-sm cursor-pointer h-9 w-52 rounded-md",
+		"textBefore": "say",
+		"text": "hello",
+		"textStyle": "flex flex-row justify-center text-black w-14 rounded text-sm text-center h-6 mx-1",
+		"textAfter": "for 2 seconds"
+	},
+	{
+		"id": 14,
+		"type": "looks",
+		"containerStyle": "flex flex-row flex-wrap bg-purple-500 text-white px-2 py-1 my-2 text-sm cursor-pointer h-9 w-28 rounded-md",
+		"textBefore": "say",
+		"text": "hello",
+		"textStyle": "flex flex-row justify-center text-black w-14 rounded text-sm text-center h-6 mx-1"
+	},
+	{
+		"id": 15,
+		"type": "looks",
+		"containerStyle": "flex flex-row flex-wrap bg-purple-500 text-white px-2 py-1 my-2 text-sm cursor-pointer h-9 w-52 rounded-md",
+		"textBefore": "think",
+		"text": "Hmm...",
+		"textStyle": "flex flex-row justify-center text-black w-14 rounded text-sm text-center h-6 mx-1",
+		"textAfter": "for 2 seconds"
+	},
+	{
+		"id": 16,
+		"type": "looks",
+		"containerStyle": "flex flex-row flex-wrap bg-purple-500 text-white px-2 py-1 my-2 text-sm cursor-pointer h-9 w-28 rounded-md",
+		"textBefore": "think",
+		"text": "Hmm...",
+		"textStyle": "flex flex-row justify-center text-black w-14 rounded text-sm text-center h-6 mx-1"
+	}
+]

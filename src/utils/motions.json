@@ -1,0 +1,79 @@
+[
+	{
+		"id": 4,
+		"type": "motion",
+		"containerStyle": "flex flex-row flex-wrap bg-blue-500 text-white px-2 py-1 my-2 text-sm cursor-pointer h-9 w-44 items-center rounded-md",
+		"textBefore": "move",
+		"text": 10,
+		"textStyle": "flex flex-row justify-center text-black w-6 rounded-full text-sm text-center h-6 mx-1",
+		"textAfter": "steps"
+	},
+	{
+		"id": 5,
+		"type": "motion",
+		"containerStyle": "flex flex-row flex-wrap bg-blue-500 text-white px-2 py-1 my-2 text-sm cursor-pointer h-9 w-44 items-center rounded-md",
+		"textBefore": "if on edge, bounce"
+	},
+	{
+		"id": 6,
+		"type": "motion",
+		"containerStyle": "flex flex-row flex-wrap bg-blue-500 text-white px-2 py-1 my-2 text-sm cursor-pointer h-9 w-44 items-center rounded-md",
+		"textBefore": "turn",
+		"icon": "redo",
+		"iconStyle": "text-green-600 mx-2",
+		"text": 90,
+		"textStyle": "flex flex-row justify-center text-black w-6 rounded-full text-sm text-center h-6 mx-1",
+		"textAfter": "degrees"
+	},
+	{
+		"id": 7,
+		"type": "motion",
+		"containerStyle": "flex flex-row flex-wrap bg-blue-500 text-white px-2 py-1 my-2 text-sm cursor-pointer h-9 w-44 items-center rounded-md",
+		"textBefore": "turn",
+		"icon": "undo",
+		"iconStyle": "text-green-600 mx-2",
+		"text": 90,
+		"textStyle": "flex flex-row justify-center text-black w-6 rounded-full text-sm text-center h-6 mx-1",
+		"textAfter": "degrees"
+	},
+	{
+		"id": 8,
+		"type": "motion",
+		"containerStyle": "flex flex-row flex-wrap bg-blue-500 text-white px-2 py-1 my-2 text-sm cursor-pointer h-9 w-44 items-center rounded-md",
+		"textBefore": "point in direction",
+		"text": 90,
+		"textStyle": "flex flex-row justify-center text-black w-6 rounded-full text-sm text-center h-6 mx-1"
+	},
+	{
+		"id": 9,
+		"type": "motion",
+		"containerStyle": "flex flex-row flex-wrap bg-blue-500 text-white px-2 py-1 my-2 text-sm cursor-pointer h-9 w-44 items-center rounded-md",
+		"textBefore": "change x by ",
+		"text": 10,
+		"textStyle": "flex flex-row justify-center text-black w-6 rounded-full text-sm text-center h-6 mx-1"
+	},
+	{
+		"id": 10,
+		"type": "motion",
+		"containerStyle": "flex flex-row flex-wrap bg-blue-500 text-white px-2 py-1 my-2 text-sm cursor-pointer h-9 w-44 items-center rounded-md",
+		"textBefore": "set x to ",
+		"text": 0,
+		"textStyle": "flex flex-row justify-center text-black w-6 rounded-full text-sm text-center h-6 mx-1"
+	},
+	{
+		"id": 11,
+		"type": "motion",
+		"containerStyle": "flex flex-row flex-wrap bg-blue-500 text-white px-2 py-1 my-2 text-sm cursor-pointer h-9 w-44 items-center rounded-md",
+		"textBefore": "change y by ",
+		"text": 10,
+		"textStyle": "flex flex-row justify-center text-black w-6 rounded-full text-sm text-center h-6 mx-1"
+	},
+	{
+		"id": 12,
+		"type": "motion",
+		"containerStyle": "flex flex-row flex-wrap bg-blue-500 text-white px-2 py-1 my-2 text-sm cursor-pointer h-9 w-44 items-center rounded-md",
+		"textBefore": "set y to ",
+		"text": 0,
+		"textStyle": "flex flex-row justify-center text-black w-6 rounded-full text-sm text-center h-6 mx-1"
+	}
+]
